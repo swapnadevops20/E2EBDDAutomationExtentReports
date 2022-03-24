@@ -1,0 +1,7 @@
+20:31:25.780 [main] INFO  resources.base - Successfully validated PhoneText message
+20:31:25.784 [main] INFO  resources.base - 
+20:31:25.784 [main] INFO  resources.base - Account already exists with this mobile number. Please login.
+20:31:43.710 [main] INFO  resources.base - ChromeDriver is opened
+20:32:30.393 [main] INFO  resources.base - Don't allow popup
+20:32:35.600 [main] INFO  resources.base - Navigated to Signin Page
+20:32:40.793 [main] INFO  resources.base - Navigated to Registration Form

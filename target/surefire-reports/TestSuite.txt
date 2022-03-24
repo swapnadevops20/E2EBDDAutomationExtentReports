@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 196.784 s <<< FAILURE! - in TestSuite
+feature(cucmberOptions.TestRunner)  Time elapsed: 171.588 s  <<< FAILURE!
+cucumber.runtime.CucumberException: java.lang.AssertionError: expected [Account already exists with this mobile number. Please login.] but found [Invalid mobile number.]
+Caused by: java.lang.AssertionError: expected [Account already exists with this mobile number. Please login.] but found [Invalid mobile number.]
+

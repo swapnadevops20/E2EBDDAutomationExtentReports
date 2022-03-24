@@ -1,0 +1,7 @@
+15:04:58.668 [main] INFO  resources.base - Navigated to Registration Form
+15:05:02.045 [main] INFO  resources.base - Entered Email Id as Input Value
+15:05:05.385 [main] INFO  resources.base - Entered Phone# as Input Value
+15:05:08.657 [main] INFO  resources.base - Register With Password Checked
+15:05:11.849 [main] INFO  resources.base - Entered Password as Input Value
+15:05:12.143 [main] INFO  resources.base - Register Button is clicked
+15:05:12.144 [main] INFO  resources.base - Validating Tc's Using Assertions

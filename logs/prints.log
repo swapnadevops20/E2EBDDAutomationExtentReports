@@ -1,0 +1,8 @@
+20:32:44.136 [main] INFO  resources.base - Entered Email Id as Input Value
+20:32:47.393 [main] INFO  resources.base - Entered Phone# as Input Value
+20:32:50.744 [main] INFO  resources.base - Register With Password Checked
+20:32:53.975 [main] INFO  resources.base - Entered Password as Input Value
+20:32:58.184 [main] INFO  resources.base - Register Button is clicked
+20:32:58.185 [main] INFO  resources.base - Validating Tc's Using Assertions
+20:32:58.336 [main] INFO  resources.base - 
+20:32:58.337 [main] INFO  resources.base - Successfully validated EmailText message
