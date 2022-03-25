@@ -12,4 +12,6 @@ Examples:
       |emailId                   |phNo       |
       |swapnareddi.mca@gmail.com |9704584916 |
       |swapnareddi.mca@gmail.com |9704       |
-
+	  |swapnareddi@gmail.com     |9704584916 |
+      |swapnareddi.mca@gmail.com |9620932888 |
+	  

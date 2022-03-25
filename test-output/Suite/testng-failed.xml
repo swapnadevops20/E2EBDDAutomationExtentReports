@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite parallel="none" name="Failed suite [Suite]">
-  <test parallel="none" name="Validating Assertions(failed)">
+  <listeners>
+    <listener class-name="Shopclues.Listeners"/>
+  </listeners>
+  <test parallel="none" name="Validating User login(failed)">
     <classes>
-      <class name="cucmberOptions.TestRunner">
+      <class name="Shopclues.HomePageTest">
         <methods>
-          <include name="setUpClass"/>
-          <include name="feature" invocation-numbers="0"/>
-          <include name="tearDownClass"/>
+          <include name="baseNavigationPage" invocation-numbers="0 1"/>
+          <include name="initialize"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- cucmberOptions.TestRunner -->
+      </class> <!-- Shopclues.HomePageTest -->
     </classes>
-  </test> <!-- Validating Assertions(failed) -->
+  </test> <!-- Validating User login(failed) -->
 </suite> <!-- Failed suite [Suite] -->

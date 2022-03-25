@@ -1,0 +1,7 @@
+18:58:12.751 [main] INFO  resources.base - Don't allow popup is Clicked
+18:58:17.928 [main] INFO  resources.base - Navigated to Signin Page
+18:58:23.073 [main] INFO  resources.base - Navigated to Registration Form
+18:58:26.413 [main] INFO  resources.base - Entered Email Id as Input Value
+18:58:29.678 [main] INFO  resources.base - Entered Phone# as Input Value
+18:58:32.985 [main] INFO  resources.base - Register With Password Checked
+18:58:36.175 [main] INFO  resources.base - Entered Password as Input Value
